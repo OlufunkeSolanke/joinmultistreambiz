@@ -990,7 +990,7 @@ footer span { color: var(--gold); }
   padding: 0 24px;
 }
 .faq-item.active .faq-answer {
-  max-height: 300px; padding: 0 24px 22px;
+  max-height: 600px; padding: 0 24px 22px;
 }
 .faq-answer p {
   font-size: 0.9rem; color: var(--text-mid);
